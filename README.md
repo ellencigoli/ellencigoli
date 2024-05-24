@@ -7,8 +7,6 @@ Hi there! I'm Ellen Cigoli, a full stack Python student at EBAC (Escola Britâni
 ## Technologies 🌱 
 
 - Python
-- HTML
-- CSS
 - JavaScript
 
 ## Get in Touch 🌈
