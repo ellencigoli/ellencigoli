@@ -2,7 +2,7 @@
 
 ## About Me 👋
 
-Hi there! I'm Ellen Cigoli, a full stack Python student at EBAC (Escola Britânica de Artes Criativas). I'm passionate about coding and love diving into web development projects. Currently, I'm focusing on mastering Python, HTML, CSS, and JavaScript.
+Hi there! I'm Ellen Cigoli, a full stack Python student at EBAC (Escola Britânica de Artes Criativas). I'm passionate about coding and love diving into web development projects. Currently, I'm focusing on mastering Python and JavaScript.
 
 ## Technologies 🌱 
 
