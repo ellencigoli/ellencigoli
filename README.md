@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Ellen</strong> and I'm a back-end programmer, from <strong>São Paulo</strong>São Paulo</p>
+<p align="left">My name is <strong>Ellen</strong> and I'm a back-end programmer, from <strong>São Paulo</strong></p>
 
 ###
 
